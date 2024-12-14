@@ -19,7 +19,7 @@ In October each year, full-time staff are moved to the next point on their salar
 they are not already at the top of that scale. From time to time an employee may be
 promoted to the next salary scale within their professional category
 (Academic/Administrative/IT/Technical etc..). The point to which a staff member is
-promoted to the new salary scale is dependent on the number of years spent at the top of
+promoted to in the new salary scale is dependent on the number of years spent at the top of
 the previous scale.
 
 All relevant data associated with the payroll system (such as employee, payroll, payslip
