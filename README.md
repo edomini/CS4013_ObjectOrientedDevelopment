@@ -1,7 +1,7 @@
 # CS4013 Object Oriented Development
 ## Objectives:
 - Apply an object-oriented approach to the design and development of a software application in Java.
-- Apply the concepts and techniques introduced in lectures, tutorials and labs to thedesign and development of a small software application.
+- Apply the concepts and techniques introduced in lectures, tutorials and labs to the design and development of a small software application.
 ## Payroll System Requirements:
 You are required to build a Payroll system for staff. There are similar salary scales for
 hourly paid employees. For example, there may be different scales such as Lecture,
