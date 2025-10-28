@@ -16,7 +16,7 @@ deductions for Health Insurance, Union Fees, and for the various taxes (e.g. PRS
 Income Tax).
 
 In October each year, full-time staff are moved to the next point on their salary scale (if
-they are not already at the top of that scale. From time to time an employee may be
+they are not already at the top of that scale). From time to time an employee may be
 promoted to the next salary scale within their professional category
 (Academic/Administrative/IT/Technical etc..). The point to which a staff member is
 promoted to in the new salary scale is dependent on the number of years spent at the top of
